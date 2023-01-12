@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey!
+
+I'm a newly minted software engineer and recent graduate of App Academy's full-stack software engineering course. Previously, I spent four years in technology-focused investment banking and, later, four years in corporate strategy for late stage startups in real estate tech & micromobility. I've managed high performing small to medium-sized teams, excelled as an individual contributor, and love working with passionate people. Always happy to chat -- don't be shy to reach out!
 
 <!--
 **mikemillercodes/mikemillercodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
