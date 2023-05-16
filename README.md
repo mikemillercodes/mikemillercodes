@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hey+there+swanky+coders!+%F0%9F%91%8B;I'm+a+front-end+software+engineer!+%E2%9C%94;I'm+a+back-end+software+engineer!+%E2%9C%94;I'm+a+full-stack+software+engineer!+%E2%9C%94;I'm+Mike+Miller+%F0%9F%94%A5" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hey+programmers!+%F0%9F%91%8B;I'm+a+front-end+software+engineer!+%E2%9C%94;I'm+a+back-end+software+engineer!+%E2%9C%94;I'm+a+full-stack+software+engineer!+%E2%9C%94;" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -8,7 +8,7 @@
 
 <hr/>
 
-Hey there! I'm Mike Millerr ✌! I'm a full-stack software engineer. Check out some of my projects pinned on my profile to see some of my work. I'm most familiar with JavaScript, React, Redux, Python, Flask, SQLAlchemy, Sequelize, PostgreSQL, and HTML/CSS. I've got a background in Finance and degrees in International Studies and Business Economics from the University of California, Irvine. I'm also a graduate from an immersive full-stack coding bootcamp, App Academy, and am looking forward to expanding my technical skills!
+Hey there! I'm Mike Miller ✌! I'm a full-stack software engineer. Check out some of my projects pinned on my profile to see some of my work. I'm most familiar with JavaScript, React, Redux, Python, Flask, SQLAlchemy, Sequelize, PostgreSQL, and HTML/CSS. I've got a background in Finance and degrees in International Studies and Business Economics from the University of California, Irvine. I'm also a graduate from an immersive full-stack coding bootcamp, App Academy, and am looking forward to expanding my technical skills!
 
 - 📫 How to reach me: millermichaelg1@gmail.com
 - 📁 Portfolio: https://mikemillercodes.github.io/
